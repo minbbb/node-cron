@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-cron",
+  "version": "1.0.0",
+  "description": "Simple cron for nodejs",
+  "main": "cron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minbbb/node-cron.git"
+  },
+  "keywords": [
+    "cron",
+    "node"
+  ],
+  "author": "https://github.com/minbbb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minbbb/node-cron/issues"
+  },
+  "homepage": "https://github.com/minbbb/node-cron#readme"
+}
