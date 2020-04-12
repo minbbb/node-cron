@@ -1,6 +1,6 @@
 {
   "name": "simple-node-cron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple cron for nodejs",
   "main": "cron.js",
   "scripts": {
